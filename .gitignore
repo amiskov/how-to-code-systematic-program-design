@@ -1,2 +1,4 @@
 *.rkt~
 node_modules
+.DS_Store
+/.vuepress/dist/
