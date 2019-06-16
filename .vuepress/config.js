@@ -1,7 +1,7 @@
 module.exports = {
   title: 'How to Code',
   head: [
-    ['link', { rel: 'icon', href: 'favicon.ico' }]
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
   description: '',
   base: '/mooc_htdp/',
